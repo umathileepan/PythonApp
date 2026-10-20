@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\PythonDeveloper\Day_33\API\.venv" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="C:\PythonDeveloper\Day_29\.venv" project-jdk-type="Python SDK" />
+>>>>>>> 3f5e4dbd55be417d1e06acff3794fb50f621ab67
 </project>
